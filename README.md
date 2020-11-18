@@ -17,6 +17,7 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -41,7 +42,8 @@
 <br />
 
 ---
- <summary>:zap: GitHub Stats</summary>
+ ## GitHub Stats
+ 
  <img align="left" alt="Amitava123's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amitava123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
  <img align="left" alt="Amitava123's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitava123&layout=compact&hide_border=true"/>
 
