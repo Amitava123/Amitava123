@@ -41,7 +41,6 @@
 
 <br />
 
----
  ## GitHub Stats
  
  ![Amitava's Github Stats](https://github-readme-stats.vercel.app/api?username=amitava123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true")
