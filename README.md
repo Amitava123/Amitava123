@@ -44,8 +44,8 @@
 ---
  ## GitHub Stats
  
- <img align="left" alt="Amitava123's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amitava123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
- <img align="left" alt="Amitava123's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitava123&layout=compact&hide_border=true"/>
+ ![Amitava's Github Stats](https://github-readme-stats.vercel.app/api?username=amitava123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true")
+ ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitava123&layout=compact&hide_border=true)
 
 [github]: https://github.com/Amitava123
 [twitter]: https://twitter.com/AmitavaMitra6
