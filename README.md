@@ -44,7 +44,7 @@
  ## GitHub Stats
  
  ![Amitava's Github Stats](https://github-readme-stats.vercel.app/api?username=amitava123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true")
- ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitava123&layout=compact&hide_border=true)
+ ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitava123&layout=compact&hide_border=true&exclude_repo=android_device_xiaomi_raphael,android_kernel_xiaomi_onc,android_device_xiaomi_onc,X00PD_ims,android_device_asus_X00PD,android_vendor_xiaomi_onc,android_device_yu_lettuce,android_kernel_cyanogen_msm8916,android_vendor_yu,device_xiaomi_onc-twrp,rom_building_system_setup,android_device_xiaomi_onc-twrp,android_device_xiaomi_msm8956-common,android_kernel_xiaomi_msm8956,android_device_xiaomi_kenzo,android_vendor_xiaomi)
 
 [github]: https://github.com/Amitava123
 [twitter]: https://twitter.com/AmitavaMitra6
