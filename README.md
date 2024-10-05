@@ -1,16 +1,14 @@
 ## Hi there I am Amitava Mitra aka [Amitava123][github]👋
 
-### I'm a Student, Developer and Professional!!
+### I'm a Developer and a Professional!!
 
-- 🔭 I work on React.js, Node.js, MongoDB.
-- 🌱 I’m currently trying to learn everything related to full stack. XD
+- 🔭 I work on JavaScript/TypeScript, React.js, Node.js, MongoDB.
+- 🌱 I’m currently trying to learn everything related to full stack. :P
 - 👯 I’m looking to collaborate on MERN stack development.
-- 🥅 2020 Goals: Contribute more to Open Source projects, build my own projects.
 - ⚡ Fun fact: I learned there is noone above Google Search :P
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -47,8 +45,7 @@
  ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitava123&layout=compact&hide_border=true&exclude_repo=android_device_xiaomi_raphael,android_kernel_xiaomi_onc,android_device_xiaomi_onc,X00PD_ims,android_device_asus_X00PD,android_vendor_xiaomi_onc,android_device_yu_lettuce,android_kernel_cyanogen_msm8916,android_vendor_yu,device_xiaomi_onc-twrp,rom_building_system_setup,android_device_xiaomi_onc-twrp,android_device_xiaomi_msm8956-common,android_kernel_xiaomi_msm8956,android_device_xiaomi_kenzo,android_vendor_xiaomi)
 
 [github]: https://github.com/Amitava123
-[twitter]: https://twitter.com/AmitavaMitra6
 [facebook]: https://www.facebook.com/amitava.mitra.786
-[linkedin]: https://www.linkedin.com/in/amitava-m-0434b2111/
-[instagram]: https://www.instagram.com/mittir_mosai/
+[linkedin]: https://www.linkedin.com/in/amitava-mitra/
+[instagram]: https://www.instagram.com/me.mr_mitra/
 [telegram]: https://t.me/Amitava123/
