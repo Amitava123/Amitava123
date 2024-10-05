@@ -1,6 +1,4 @@
-## Hi there I am Amitava Mitra aka [Amitava123][github]👋
-
-### I'm a Developer and a Professional!!
+![Header](./github-header-image.png)
 
 - 🔭 I work on JavaScript/TypeScript, React.js, Node.js, MongoDB.
 - 🌱 I’m currently trying to learn everything related to full stack. :P
