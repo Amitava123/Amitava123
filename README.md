@@ -11,6 +11,7 @@
 [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/600px-2023_Facebook_icon.svg.png?20231011122028" />][facebook]
 [<img align="left" width="22px" src="https://i.pinimg.com/originals/83/08/ff/8308ff13effc2f0b1d64b6a08a618be8.png" />][instagram]
 [<img align="left" width="22px" src="https://static.cdnlogo.com/logos/t/84/telegram.svg" />][telegram]
+[<img align="left" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" />][portfolio]
 
 <br />
 <br />
@@ -43,3 +44,4 @@
 [linkedin]: https://www.linkedin.com/in/amitava-mitra/
 [instagram]: https://www.instagram.com/me.mr_mitra/
 [telegram]: https://t.me/Amitava123/
+[portfolio]: https://portfolio-amitava.vercel.app/
